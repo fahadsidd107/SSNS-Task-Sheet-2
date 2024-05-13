@@ -1,0 +1,9 @@
+{
+	"folders": [],
+	"settings": {
+		"files.associations": {
+			"kernel.h": "c"
+		},
+		"nrf-connect.applications": []
+	}
+}
